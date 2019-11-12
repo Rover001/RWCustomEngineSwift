@@ -10,5 +10,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "9.0"
   spec.source       = { :git => "https://github.com/Rover001/RWCustomEngineSwift.git", :tag => "#{spec.version}" }
   spec.ios.vendored_frameworks  = "RWDeviceEngineSwift/*.framework"
-  spec.requires_arc = true    
+  spec.requires_arc = true
+  spec.framework  = "UIKit"
+
 end
