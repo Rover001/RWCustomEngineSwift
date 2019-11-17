@@ -1,0 +1,16 @@
+PODS:
+  - RWCustomEngineSwift (0.2.0)
+
+DEPENDENCIES:
+  - RWCustomEngineSwift (~> 0.2.0)
+
+SPEC REPOS:
+  trunk:
+    - RWCustomEngineSwift
+
+SPEC CHECKSUMS:
+  RWCustomEngineSwift: c5e9e1499707c902ba99700e29f11779221d10c6
+
+PODFILE CHECKSUM: 68cc61e1304ec2549067fac6070af47ba4ad7f20
+
+COCOAPODS: 1.8.1
