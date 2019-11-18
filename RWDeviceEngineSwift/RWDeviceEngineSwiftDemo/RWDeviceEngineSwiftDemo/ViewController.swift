@@ -7,8 +7,8 @@
 //
 
 import UIKit
-
 import DeviceEngineSwift
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {

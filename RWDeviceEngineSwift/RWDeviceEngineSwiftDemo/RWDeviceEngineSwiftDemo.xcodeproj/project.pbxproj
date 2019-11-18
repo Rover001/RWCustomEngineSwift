@@ -75,6 +75,7 @@
 				44132ECA2381882B005E3D0E /* Products */,
 				A78CD4264A96B127028ACD02 /* Pods */,
 				04790194A87B4A47815685BA /* Frameworks */,
+				44132EF1238194F3005E3D0E /* Recovered References */,
 			);
 			sourceTree = "<group>";
 		};
@@ -107,6 +108,14 @@
 			);
 			name = RWDeviceEngineSwift;
 			path = Pods/RWCustomEngineSwift/RWDeviceEngineSwift;
+			sourceTree = "<group>";
+		};
+		44132EF1238194F3005E3D0E /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				44132EEB238190A7005E3D0E /* Pods_RWDeviceEngineSwiftDemo.framework */,
+			);
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 		A78CD4264A96B127028ACD02 /* Pods */ = {
