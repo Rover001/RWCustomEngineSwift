@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+import CustomDevice
 
 public protocol CustomDeviveProtocol {
     /*  获取定向样式 默认值DeviceOrientationStyle.Portrait

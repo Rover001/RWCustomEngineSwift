@@ -15,6 +15,6 @@ FOUNDATION_EXPORT double DeviceEngineSwiftVersionNumber;
 FOUNDATION_EXPORT const unsigned char DeviceEngineSwiftVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like
-#import <DeviceEngineSwift/DeviceEngineSwift-Swift.h>
+//#import <DeviceEngineSwift/CustomDeviceSwift.swift>
 
 

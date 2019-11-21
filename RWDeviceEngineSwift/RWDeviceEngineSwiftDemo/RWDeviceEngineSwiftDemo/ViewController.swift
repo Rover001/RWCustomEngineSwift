@@ -2,13 +2,12 @@
 //  ViewController.swift
 //  RWDeviceEngineSwiftDemo
 //
-//  Created by 曾云 on 2019/11/17.
-//  Copyright © 2019 曾云. All rights reserved.
+//  Created by linmao on 2019/11/18.
+//  Copyright © 2019 RoverWord. All rights reserved.
 //
 
 import UIKit
 
-import DeviceEngineSwift
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
