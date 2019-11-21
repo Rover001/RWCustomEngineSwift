@@ -53,8 +53,11 @@
 		7C7FABA502A896F51BD0EC2B /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				6319961508ABCAFB6FA496B9 /* Pods-RWDeviceEngineSwiftDemo.debug.xcconfig */,
-				86A4A30EE9BD9D3CD1DEF529 /* Pods-RWDeviceEngineSwiftDemo.release.xcconfig */,
+				44132ECB2381882B005E3D0E /* RWDeviceEngineSwiftDemo */,
+				44132ECA2381882B005E3D0E /* Products */,
+				A78CD4264A96B127028ACD02 /* Pods */,
+				04790194A87B4A47815685BA /* Frameworks */,
+				44132EF1238194F3005E3D0E /* Recovered References */,
 			);
 			name = Pods;
 			path = Pods;
@@ -78,7 +81,15 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B6D9EBA1238223A80048066E /* RWDeviceEngineSwiftDemo */ = {
+		44132EF1238194F3005E3D0E /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				44132EEB238190A7005E3D0E /* Pods_RWDeviceEngineSwiftDemo.framework */,
+			);
+			name = "Recovered References";
+			sourceTree = "<group>";
+		};
+		A78CD4264A96B127028ACD02 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
 				B6D9EBA2238223A80048066E /* AppDelegate.swift */,

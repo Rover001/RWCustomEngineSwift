@@ -6,6 +6,4 @@ target 'RWDeviceEngineSwiftDemo' do
   use_frameworks!
 pod 'RWCustomEngineSwift','~> 0.2.0'
 
-  # Pods for RWDeviceEngineSwiftDemo
-
 end
